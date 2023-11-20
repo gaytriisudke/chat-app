@@ -37,18 +37,18 @@ body {
 
 .person-selector-button {
   width: 100%;
-  background-color: #15202b;
+  background-color: #d84c6a;
   color: #fff;
   font-size: 1.1em;
 }
 
 .active-person {
-  background: #08529d;
+  background: #089d61;
   box-shadow: 0 0 0.5em 0.1em #c3c3c333;
 }
 
 .chat-container {
-  background: #15202b;
+  background: #db1e2e;
   font-family: 'Roboto', sans-serif;
   border-radius: 0.5em;
   padding: 0.5em 1.25em;
@@ -107,7 +107,7 @@ body {
 }
 
 .gray-bg {
-  background-color: #3d5365;
+  background-color: #3d6554;
 }
 
 .chat-input-form {
