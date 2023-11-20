@@ -16,6 +16,9 @@ const createChatMessageElement = (message) => `
     <div class="message-text">${message.text}</div>
     <div class="message-timestamp">${message.timestamp}</div>
   </div>
+  /*
+  colour
+  */
 `
 
 window.onload = () => {
